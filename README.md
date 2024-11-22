@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'M **DEEPANSHU R.**
+I'M **DEEPANSHU**
 <!--
 **AFERMIUM/AFERMIUM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
